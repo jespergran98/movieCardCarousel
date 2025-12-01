@@ -60,24 +60,24 @@ tag: Top 10 new movies (red element with a darker red text similar to netflix co
 title: Our new recommended shows
 description: These are the brand new movies and series to watch from the past year
 
-Filmer å inkludere:
+Filmer og beskrivelser å inkludere:
 
-#1 - Stranger Things Season 5: Final battle against Vecna as Upside Down invades Hawkins.
+#1 - Stranger Things Season 5: Final battle against Vecna as Upside Down invades Hawkins. (strangerThings.webp)
 
-#2 - Lilo & Stitch (Movie): Lonely Hawaiian girl adopts chaotic alien as her pet.
+#2 - Lilo & Stitch (Movie): Lonely Hawaiian girl adopts chaotic alien as her pet. (lilo.webp)
 
-#3 - Severance Season 2 (Series): Workers face dire consequences crossing severance lines.
+#3 - Severance Season 2 (Series): Workers face dire consequences crossing severance lines. (severance.webp)
 
-#4 - A Minecraft Movie (Movie): Four misfits enter Minecraft world for a magical quest.
+#4 - A Minecraft Movie (Movie): Four misfits enter Minecraft world for a magical quest. (minecraft.webp)
 
-#5 - Jurassic World Rebirth (Movie): Team extracts dino DNA in equatorial wilds for cure.
+#5 - Jurassic World Rebirth (Movie): Team extracts dino DNA in equatorial wilds for cure. (jurassic.webp)
 
-#6 - Superman (Movie): Superman balances Kryptonian roots and human life vs Lex.
+#6 - Superman (Movie): Superman balances Kryptonian roots and human life vs Lex. (superman.webp)
 
-#7 - The Pitt (Series): Doctors battle chaos in underfunded Pittsburgh ER.
+#7 - The Pitt (Series): Doctors battle chaos in underfunded Pittsburgh ER. (thePitt.webp)
 
-#8 - Andor Season 2 (Series): Rebel spy Cassian's path intensifies toward war.
+#8 - Andor Season 2 (Series): Rebel spy Cassian's path intensifies toward war. (andor.webp)
 
-#9 - Zootopia 2: Cops Judy and Nick chase mysterious reptile in city.
+#9 - Zootopia 2: Cops Judy and Nick chase mysterious reptile in city. (zootopia.webp)
 
-#10 - Daredevil: Born Again (Series): Daredevil clashes with Kingpin as old lives resurface.
+#10 - Daredevil: Born Again (Series): Daredevil clashes with Kingpin as old lives resurface. (daredevil.webp)
