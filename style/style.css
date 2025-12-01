@@ -53,6 +53,8 @@ p {
     padding-bottom: 10px;
     cursor: grab;
     scrollbar-width: none;
+    scroll-behavior: smooth;
+    user-select: none;
 }
 
 .carousel::-webkit-scrollbar {
@@ -63,10 +65,16 @@ p {
     cursor: grabbing;
 }
 
+.carousel.dragging {
+    cursor: grabbing;
+    scroll-behavior: auto;
+}
+
 .card {
     width: 280px;
     height: 400px;
     flex-shrink: 0;
+    pointer-events: none;
 }
 
 .card img {
