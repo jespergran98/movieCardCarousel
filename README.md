@@ -1,3 +1,9 @@
+Design inspirasjon:
+
+![Design Inspiration](design/inspiration1.webp)
+
+---
+
 CSS Advanced Assignment 3: Using Animation, Transition & Transoform
 
 Mål:
