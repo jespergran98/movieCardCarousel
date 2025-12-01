@@ -103,6 +103,19 @@ p {
     filter: saturate(1.15) brightness(1.08);
 }
 
+.card-rank {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    font-size: 40px;
+    font-weight: 900;
+    color: rgba(255, 255, 255, 0.4);
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+    line-height: 1;
+    z-index: 10;
+    pointer-events: none;
+}
+
 .card-info {
     position: absolute;
     bottom: 0;
